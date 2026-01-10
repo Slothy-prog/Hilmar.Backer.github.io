@@ -1,5 +1,4 @@
-# Hilmar Backer
-My portfolio
+## Projects
 My most recent project, a mock version of a social media platform where a user can realize how they would stumble into a information bubble through the machinations of their personalized algorithm.
 <img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/fab1b3f2-4a1b-4818-8d72-fdaec5169361" />
 
